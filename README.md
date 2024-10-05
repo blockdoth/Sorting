@@ -1,2 +1,2 @@
 # Sorting
-Playing around with sorting algoritmes
+Balloon sorting visualization I made in highschool based on those popular youtube videos
